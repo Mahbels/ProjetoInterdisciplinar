@@ -1,37 +1,25 @@
-body{	
-
-		background-color: #008080;
+body{	background-color: #008080;
 		margin-left: 7%;
 		margin-right: 7%;
-
 }
 
-h1{ 
-
-		text-align: center;
+h1{ 	text-align: center;
 		color: #FFFFF0;
-
 }
 
-h2{	
-		text-align: center;
+h2{		text-align: center;
 		color: #E0FFFF;
-
 }
 
-p{		
-		text-align: justify;
+p{		text-align: justify;
 		color: #E0FFFF;
-		font-size: 25px;
-
+		font-size: 20px;
 }
 
-figure{ 
-
-		text-align: center;
+figure{		text-align: center;
 }
 
-img{
-
-		width: 50%;
+img{	width: 70%;
+	
 }
+
