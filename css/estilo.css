@@ -17,9 +17,92 @@ p{		text-align: justify;
 }
 
 figure{		text-align: center;
+
 }
 
-img{	width: 70%;
+img{	width: 65%;
+
+}
+
+.vídeo{ 
+		text-align: center;
 	
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin-left: 10%;
+  font-size: 20px;
+}
+
+.tabela{ text-align: center;
+
+}
+
+
+td, th {
+  border: 2px solid #48D1CC;
+  text-align: left;
+  padding: 12px;
+  font-size: 20;
+  color: #F5FFFA;
+ }
+
+th{ background-color: #E0FFFF;
+
+
+}
+
+a: link {
+  color: #F5FFFA;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a: visited {
+  color: #E0FFFF;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a: hover {
+  color: #E0FFFF;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a: active {
+  color: #F5FFFA;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+h3{ text-align: center;
+	color: #48D1CC;
+}
+
+ul{
+	color: #FFDEAD;
+	font-size: 22px;
+
+}
+
+li{ color: #E0FFFF;
+
+}
+
+p.double {border-style: double;
+		  text-align: center;
+		  color: #E0FFFF;
+		  font-size: 20px;
+
+}​
+
+.Tópicos{ font-size: 30px;
+
+
 }
 
